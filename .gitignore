@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+
+# ChromaDB
+chroma_langchain_db/
+
+# Claude Code
+.claude/
+
+# Large data files
+realistic_restaurant_reviews.csv
